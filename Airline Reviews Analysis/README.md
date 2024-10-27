@@ -9,7 +9,7 @@ This project offers insights into customer reviews of various airlines through E
 
 * [Web Scraping](#data-collection-using-web-scraping)
 * [Data Cleaning](#data-cleaning)
-* [Exploratory Data Analysis](#exploratory-data-analysis-eda)
+* [Exploratory Data Analysis- Link to Jupyter notebook in NBViewer:](https://nbviewer.org/github/hazwf/PortfolioProjects/blob/main/Airline%20Reviews%20Analysis/Airlines%20Review%20Analysis.ipynb)
 * [Interactive Dashboard](#tableau)
 
 **Technologies used:**  
