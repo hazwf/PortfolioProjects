@@ -2,14 +2,15 @@
 
 **Project Overview**  
 
-This project provides insights into customer reviews of various airlines, using data scraped from a public source and analyzed through Python and Tableau. The goal is to explore customer satisfaction, identify trends, and uncover factors that contribute to high or low ratings.
+This project offers insights into customer reviews of various airlines through Exploratory Data Analysis, visualizations, and web scraping. The goal is to explore customer satisfaction, identify trends, and uncover factors that contribute to high or low ratings.
 
 
 **Features**  
 
-* Web Scraping: Collects recent review data, including ratings and customer feedback.
-* Exploratory Data Analysis: Analyzes trends, customer preferences, and satisfaction levels across airlines.
-* Interactive Visualization: Dashboards in Tableau to dynamically present insights.
+* [Web Scraping](#**Data-Collection-using-Web-Scraping**)
+* Data Cleaning
+* Exploratory Data Analysis
+* Interactive Dashboard
 
 
 **Technologies used:**  
