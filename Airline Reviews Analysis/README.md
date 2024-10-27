@@ -10,7 +10,7 @@ This project offers insights into customer reviews of various airlines through E
 * [Web Scraping](#data-collection-using-web-scraping)
 * [Data Cleaning](#data-cleaning)
 * [Exploratory Data Analysis](#exploratory-data-analysis-eda)
-* Interactive Dashboard
+* [Interactive Dashboard](#tableau)
 
 **Technologies used:**  
 
@@ -39,7 +39,7 @@ Using Python on Jupyter notebook, EDA is performed on the collected reviews data
 * Determine the factors influencing whether a passenger recommends an airline
 * Assess the percentage of verified vs. unverified reviews and their impact on ratings
 
-# **Tableau**
+## **Tableau**
 
 Using Tableau, visualizations are done to provide insights into:
 * Average Rating by Airline
