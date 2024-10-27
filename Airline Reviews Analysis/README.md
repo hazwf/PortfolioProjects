@@ -1,28 +1,28 @@
 ***Airlines Review Analysis Project***
 
-**Project Overview**
+**Project Overview**  
 This project provides insights into customer reviews of various airlines, using data scraped from a public source and analyzed through Python and Tableau. The goal is to explore customer satisfaction, identify trends, and uncover factors that contribute to high or low ratings.
 
-**Features**
+**Features**  
 * Web Scraping: Collects recent review data, including ratings and customer feedback.
 * Exploratory Data Analysis: Analyzes trends, customer preferences, and satisfaction levels across airlines.
 * Interactive Visualization: Dashboards in Tableau to dynamically present insights.
 
-**Technologies used:**
+**Technologies used:**  
 Python - Pandas, Plotly, Wordcloud
 Microsoft Excel
 Tableau
 
-**Data Collection**
+**Data Collection**  
 This project includes a Python script for web scraping that pulls together country codes, states, and the countries they’re linked to. The data is cleaned and standardized for consistency. By doing this, the airline routes are mapped by country, which really helps when visualizing data and comparing insights across countries. 
 
-**Data Cleaning**
+**Data Cleaning**  
 * Data cleaning is first performed in Microsoft Excel to identify and correct spelling errors. The VLOOKUP function is utilized to update the countries linked to the
   country codes and states in the Reviews dataset, referencing the scraped dataset.
 
 * Following this, Python is employed to further clean the data by filling in missing values and checking for duplicates.
 
-**Exploratory Data Analysis (EDA)**
+**Exploratory Data Analysis (EDA)**  
 Using Python on Jupyter notebook, EDA is performed on the collected reviews dataset to:
 * Gain insights into the data
 * Identify the airlines with the highest and lowest ratings
