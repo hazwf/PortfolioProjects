@@ -7,9 +7,9 @@ This project offers insights into customer reviews of various airlines through E
 
 **Features**  
 
-* [Web Scraping](##**Data-Collection-using-Web-Scraping**)
-* [Data Cleaning](##**Data-Cleaning**)
-* [Exploratory Data Analysis](##**Exploratory-Data-Analysis-(EDA)** )
+* [Web Scraping](##Data-Collection-using-Web-Scraping)
+* [Data Cleaning](##Data-Cleaning)
+* [Exploratory Data Analysis](##Exploratory-Data-Analysis-(EDA))
 * Interactive Dashboard
 
 
@@ -20,19 +20,19 @@ Microsoft Excel
 Tableau
 
 
-## **Data Collection using Web Scraping**  
+## Data Collection using Web Scraping
 
 This project includes a Python script for web scraping that pulls together country codes, states, and the countries they’re linked to. The data is cleaned and standardized for consistency. By doing this, the airline routes are mapped by country, which really helps when visualizing data and comparing insights across countries. 
 
 
-## **Data Cleaning**  
+## Data Cleaning 
 
 * Data cleaning is first performed in Microsoft Excel to identify and correct spelling errors. The VLOOKUP function is utilized to update the countries linked to the
   country codes and states in the Reviews dataset, referencing the scraped dataset.
 * Following this, Python is employed to further clean the data by filling in missing values and checking for duplicates.
 
 
-## **Exploratory Data Analysis (EDA)**  
+## Exploratory Data Analysis (EDA)
 
 Using Python on Jupyter notebook, EDA is performed on the collected reviews dataset to:
 * Gain insights into the data
