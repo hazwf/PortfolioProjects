@@ -5,7 +5,7 @@
 This project offers insights into customer reviews of various airlines through Exploratory Data Analysis, visualizations, and web scraping. The goal is to explore customer satisfaction, identify trends, and uncover factors that contribute to high or low ratings.
 
 
-**Features**  
+**Features and links**  
 
 * [Web Scraping](#data-collection-using-web-scraping)
 * [Data Cleaning](#data-cleaning)
