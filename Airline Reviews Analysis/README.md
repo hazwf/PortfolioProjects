@@ -8,8 +8,8 @@ This project offers insights into customer reviews of various airlines through E
 **Features**  
 
 * [Web Scraping](#**Data-Collection-using-Web-Scraping**)
-* Data Cleaning
-* Exploratory Data Analysis
+* [Data Cleaning](#**Data-Cleaning**)
+* [Exploratory Data Analysis](#**Exploratory-Data-Analysis-(EDA)** )
 * Interactive Dashboard
 
 
