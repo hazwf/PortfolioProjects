@@ -7,11 +7,10 @@ This project offers insights into customer reviews of various airlines through E
 
 **Features**  
 
-* [Web Scraping](##Data-Collection-using-Web-Scraping)
-* [Data Cleaning](##Data-Cleaning)
-* [Exploratory Data Analysis](##Exploratory-Data-Analysis-(EDA))
+* [Web Scraping](#data-collection-using-web-scraping)
+* [Data Cleaning](#data-cleaning)
+* [Exploratory Data Analysis](#exploratory-data-analysis-eda)
 * Interactive Dashboard
-
 
 **Technologies used:**  
 
@@ -19,11 +18,9 @@ Python - Pandas, Plotly, Wordcloud
 Microsoft Excel  
 Tableau
 
-
 ## Data Collection using Web Scraping
 
 This project includes a Python script for web scraping that pulls together country codes, states, and the countries they’re linked to. The data is cleaned and standardized for consistency. By doing this, the airline routes are mapped by country, which really helps when visualizing data and comparing insights across countries. 
-
 
 ## Data Cleaning 
 
