@@ -1,20 +1,21 @@
 Hi, I am Haz and welcome to my github repository! I have a keen interest on tech, as well as working with data and numbers. Here, you’ll find a collection of projects that showcase my skills, interests, and contributions in various areas. Below is a brief overview of each project with links to their respective repositories:
 
-1) Employee Management Project using PostgreSQL
+1) Airlines Review Analysis using Python and Tableau
    
-   Repository:
-   
-   Description: This project focuses on managing employee data using PostgreSQL. It includes various SQL scripts to handle complex data retrieval tasks, such as analyzing salaries, ages, and job information.
+	[Link to project](https://github.com/hazwf/PortfolioProjects/tree/main/Airline%20Reviews%20Analysis)
+	   
+	Description
+	This project analyzes customer reviews across different airlines to examine satisfaction levels, identify trends, and uncover factors influencing high or low ratings. Key steps include data exploration, 	visualizations, and dashboard creation.
+	
+	Key Features
+	* Data Cleaning and Preprocessing
+	* Exploratory Data Analysis (EDA)
+	* Web Scraping
+	* Dashboard Creation
 
-   Key features:
-  •	Database Design: Schema design for an employee management system.
-	•	Data Insertion: Scripts for populating the database with employee data.
-	•	Data Retrieval: SQL queries to retrieve employee details based on various criteria.
-	•	Data Updates: Procedures for updating employee information.
-	•	Data Deletion: Scripts for safely removing employee records.
-	•	Performance Optimization: Indexing and query optimization techniques.
+2) Hotel Revenue 
 
-2) Customer Segmentation with K-Means Clustering
+3) Customer Segmentation with K-Means Clustering
 
     Repository: customer-segmentation
     
