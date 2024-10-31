@@ -7,7 +7,7 @@ This dashboard presents hotel booking data from July 2018 to August 2020, focusi
 
 The line chart indicates that revenue is typically lowest at the start of the year, likely due to the post-holiday slowdown. Interestingly, 2020 saw higher revenue than 2019 at the beginning of the year, which could be because people were opting for domestic travel due to COVID-19. Revenue peaked around August and September, with 2019 significantly outperforming both 2018 and 2020. The reasons for this trend are not very clear and could benefit from further exploration, especially regarding any popular events happening near the hotel(s).
 
-Key Segments:
+Market Segments:
 
 * The Online Travel Agent (OTA) segment stands out as the most popular, contributing the highest revenue across all years, followed by the Offline Travel Agent/Tour Operator (TA/TO) and Direct Booking segments.
 * In contrast, the aviation segment has the least revenue, with no records for the complementary segment.
