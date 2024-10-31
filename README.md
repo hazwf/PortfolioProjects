@@ -1,41 +1,39 @@
 Hi, I am Haz and welcome to my github repository! I have a keen interest in tech, as well as working with data and numbers. Here, you’ll find a collection of projects that showcase my skills. Below is a brief overview of each project with links to their respective repositories:
 
-1) Airlines Review Analysis using Python and Tableau
-   
-	[Link to project](https://github.com/hazwf/PortfolioProjects/tree/main/Airline%20Reviews%20Analysis)
-	   
-	Description
-	This project analyzes customer reviews across different airlines to examine satisfaction levels, identify trends, and uncover factors influencing high or low ratings. Key steps include data exploration, 	visualizations, and dashboard creation.
+## 1) Airlines Review Analysis using Python and Tableau
+
+[Link to project](https://github.com/hazwf/PortfolioProjects/tree/main/Airline%20Reviews%20Analysis)
+
+Description
+This project analyzes customer reviews across different airlines to examine satisfaction levels, identify trends, and uncover factors influencing high or low ratings. Key steps include data exploration, 	visualizations, and dashboard creation.
 	
-	Key Features
-	* Data Cleaning and Preprocessing
-	* Exploratory Data Analysis (EDA)
-	* Web Scraping
-	* Dashboard Creation
+Key Features
+* Data Cleaning and Preprocessing
+* Exploratory Data Analysis (EDA)
+* Web Scraping
+* Dashboard Creation
 
-2) Hotel Revenue Analysis using PostgreSQL and Power BI
+## 2) Hotel Revenue Analysis using PostgreSQL and Power BI
+
+[Link to project](https://github.com/hazwf/PortfolioProjects/tree/main/Hotel%20Revenue%20Analysis)
    
-   Link to project
+Description
+This project analyzes hotel bookings based on data from 2018 to 2020, focusing on cancellation patterns, annual revenue by hotel type, popular meal choices, and booking distribution by country and market segment.
+Additionally, it examines trends in room rates, guest repetition, and the impact of special requests on spending, offering insights into key booking and spending patterns.
 
-   Description
-   This project analyzes hotel bookings based on data from 2018 to 2020, focusing on cancellation patterns, annual revenue by hotel type, popular meal choices, and booking distribution by country and market segment.
-   Additionally, it examines trends in room rates, guest repetition, and the impact of special requests on spending, offering insights into key booking and spending patterns.
+Key Features
+* Exploratory Data Analysis (EDA)
+* Dashboard Creation
+  
+## 3) Machine Learning Models for Predicting Hotel Booking Cancellations and Demand
 
-   Key Features
-   * Exploratory Data Analysis (EDA)
-   * Dashboard Creation
+[Link to project](https://github.com/hazwf/PortfolioProjects/tree/main/Predicting%20Hotel%20Booking%20Cancellations%20and%20Demand)
 
-4) Customer Segmentation with K-Means Clustering
+Description
+This project develops two machine learning models: one for predicting booking cancellations based on existing features in the dataset and another for forecasting booking demand for near-future dates using the XGBRegressor model and incorporating lag features.
 
-    Repository: customer-segmentation
-    
-    Description: This project involves customer segmentation using K-means clustering based on purchasing behaviors, specifically focusing on bike types (mountain or road)
-     and price tiers (premium or affordable). The dataset used consists of detailed records of bicycle orders from Cannondale.
-    
-    Key Features:
-    
-    	•	Data cleaning and preprocessing
-    	•	Exploratory Data Analysis (EDA)
-    	•	Implementation of K-means clustering
-    	•	Visualization of clusters
+Key Features
+* Data Engineering and Prepocessing
+* Machine Learning Model Development
+
    
