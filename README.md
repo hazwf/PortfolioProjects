@@ -1,4 +1,4 @@
-Hi, I am Haz and welcome to my github repository! I have a keen interest on tech, as well as working with data and numbers. Here, you’ll find a collection of projects that showcase my skills, interests, and contributions in various areas. Below is a brief overview of each project with links to their respective repositories:
+Hi, I am Haz and welcome to my github repository! I have a keen interest in tech, as well as working with data and numbers. Here, you’ll find a collection of projects that showcase my skills. Below is a brief overview of each project with links to their respective repositories:
 
 1) Airlines Review Analysis using Python and Tableau
    
@@ -13,9 +13,14 @@ Hi, I am Haz and welcome to my github repository! I have a keen interest on tech
 	* Web Scraping
 	* Dashboard Creation
 
-2) Hotel Revenue 
+2) Hotel Revenue Analysis using PostgreSQL and Power BI
+   
+   Link to project
 
-3) Customer Segmentation with K-Means Clustering
+   Description
+   This project analyzes the hotel revenue 
+
+4) Customer Segmentation with K-Means Clustering
 
     Repository: customer-segmentation
     
