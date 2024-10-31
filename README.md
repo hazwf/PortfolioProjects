@@ -5,7 +5,7 @@ Hi, I am Haz and welcome to my github repository! I have a keen interest in tech
 [Link to project](https://github.com/hazwf/PortfolioProjects/tree/main/Airline%20Reviews%20Analysis)
 
 Description:<br/>
-This project analyzes customer reviews across different airlines to examine satisfaction levels, identify trends, and uncover factors influencing high or low ratings. Key steps include data exploration, 	visualizations, and dashboard creation.
+This project analyzes customer reviews across different airlines to examine satisfaction levels, identify trends, and uncover factors influencing high or low ratings. 
 	
 Key Features
 * Data Cleaning and Preprocessing
@@ -18,11 +18,10 @@ Key Features
 [Link to project](https://github.com/hazwf/PortfolioProjects/tree/main/Hotel%20Revenue%20Analysis)
    
 Description:<br/>
-This project analyzes hotel bookings based on data from 2018 to 2020, focusing on cancellation patterns, annual revenue by hotel type, popular meal choices, and booking distribution by country and market segment.
-Additionally, it examines trends in room rates, guest repetition, and the impact of special requests on spending, offering insights into key booking and spending patterns.
+This project analyzes 2018-2020 hotel booking data, focusing on cancellation patterns, revenue by hotel type, popular meal choices, and booking distribution by country and market segment. It also examines room rate trends, guest repetition, and the impact of special requests on spending to uncover key booking and spending patterns.
 
 Key Features
-* Exploratory Data Analysis (EDA)
+* SQL based Exploratory Data Analysis (EDA)
 * Dashboard Creation
   
 ## 3) Machine Learning Models for Predicting Hotel Booking Cancellations and Demand
