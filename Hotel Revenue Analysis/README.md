@@ -4,7 +4,7 @@
 This project provides insights into hotel revenue data from 2018 to 2020 through SQL-based exploratory data analysis and Power BI visualizations. It aims to uncover trends, analyze patterns, and identify factors influencing booking and spending behaviors.
 
 #### Features and links  
-* EDA using PostgreSQL --> Link to SQL code
+* EDA using PostgreSQL --> [Link to SQL code](https://github.com/hazwf/PortfolioProjects/blob/main/Hotel%20Revenue%20Analysis/queries.sql)
 * Interactive Dashboard --> Link to Power BI screenshot and file
 
 #### Technologies used 
