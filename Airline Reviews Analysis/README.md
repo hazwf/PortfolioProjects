@@ -13,7 +13,7 @@ This project offers insights into customer reviews of various airlines through E
 
 **Technologies used:**  
 
-Python - Pandas, Plotly, Wordcloud  
+Python - Pandas, Matplotlib, Seaborn, Wordcloud, Scrapy
 Microsoft Excel  
 Tableau
 
