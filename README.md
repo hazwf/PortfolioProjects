@@ -18,7 +18,12 @@ Hi, I am Haz and welcome to my github repository! I have a keen interest in tech
    Link to project
 
    Description
-   This project analyzes the hotel revenue 
+   This project analyzes hotel bookings based on data from 2018 to 2020, focusing on cancellation patterns, annual revenue by hotel type, popular meal choices, and booking distribution by country and market segment.
+   Additionally, it examines trends in room rates, guest repetition, and the impact of special requests on spending, offering insights into key booking and spending patterns.
+
+   Key Features
+   * Exploratory Data Analysis (EDA)
+   * Dashboard Creation
 
 4) Customer Segmentation with K-Means Clustering
 
