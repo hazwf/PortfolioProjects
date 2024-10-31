@@ -17,12 +17,12 @@ SELECT
     ROUND((SUM(CASE WHEN reservation_status = 'No-Show' THEN 1 ELSE 0 END)::numeric / SUM(is_canceled)) * 100, 1) || '%' AS no_show_cancellation_rate
 FROM hotels;
 
--- what is the number of bookings per year?
+-- What is the number of bookings per year?
 select arrival_date_year, count(*) as number_of_bookings
 from hotels
 group by arrival_date_year;
 
--- what is the total revenue per year for the 2 hotel types, considering the discounts too?
+-- What is the total revenue per year for the 2 hotel types, considering the discounts too?
 SELECT 
 	h.hotel,
     h.arrival_date_year,
@@ -32,34 +32,34 @@ FROM hotels h
 GROUP BY h.hotel, h.arrival_date_year
 ORDER BY h.hotel, h.arrival_date_year;
 
--- what is the most popular meal types?
+-- What is the most popular meal types?
 select meal, count(*) as meal_count
 from hotels 
 group by meal
 order by meal_count desc;
 
--- which countries have the highest bookings, broken down by year and hotel type?
+-- Which countries have the highest bookings, broken down by year and hotel type?
 select country, hotel, arrival_date_year, count(*) as number_of_bookings
 from hotels
 group by hotel, arrival_date_year, country
 order by number_of_bookings desc, country;
 
--- what is the average lead time per market segment?
+-- What is the average lead time per market segment?
 select market_segment, round(avg(lead_time),1) as avg_lead_time
 from hotels
 group by market_segment
 order by market_segment;
 
--- what is the % of bookings that come from repeated guests?
+-- What is the % of bookings that come from repeated guests?
 select round(sum(is_repeated_guest)::numeric/count(*)*100,1) || '%' as repeated_guests_rate
 from hotels;
 
--- what are the average daily rates between different room types, broken down by hotel type and year?
+-- What are the average daily rates between different room types, broken down by hotel type and year?
 select hotel, assigned_room_type, arrival_date_year, round(avg(avg_daily_rate)::numeric,2) as avg_daily_rate
 from hotels
 group by hotel, assigned_room_type, arrival_date_year;
 
--- do guests with special requests tend to spend more?
+-- Do guests with special requests tend to spend more?
 select total_special_requests, round(avg(avg_daily_rate)::numeric,2) as avg_daily_rate
 from hotels
 group by total_special_requests
