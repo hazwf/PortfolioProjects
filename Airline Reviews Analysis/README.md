@@ -19,7 +19,7 @@ Tableau
 
 ## Data Collection using Web Scraping
 
-This project features a Python script for web scraping, which retrieves data from a website containing country codes, states, and their corresponding countries. The scraped data is then imported into Microsoft Excel, where it is used to clean and standardize information related to airline routes. 
+This project includes a Python script for web scraping that extracts data from a website containing country codes, states, and their corresponding countries. The scraped data is then exported to a CSV file, which serves as a reference for the existing airline review dataset, allowing for the standardization of data.
 
 ## Data Cleaning 
 
