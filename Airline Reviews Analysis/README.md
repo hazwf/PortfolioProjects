@@ -7,9 +7,9 @@ This project offers insights into customer reviews of various airlines through E
 
 **Features and links**  
 
-* [Web Scraping - Link to Python code](#data-collection-using-web-scraping)
-* [Data cleaning and Exploratory Data Analysis- Link to Jupyter notebook](https://github.com/hazwf/PortfolioProjects/blob/main/Airline%20Reviews%20Analysis/Airlines%20Review%20Analysis.ipynb)
-* [Interactive Dashboard](#tableau)
+* Web Scraping --> [Link to Python code](#data-collection-using-web-scraping)
+* Data cleaning and Exploratory Data Analysis --> [Link to Jupyter notebook](https://github.com/hazwf/PortfolioProjects/blob/main/Airline%20Reviews%20Analysis/Airlines%20Review%20Analysis.ipynb)
+* Interactive Dashboard --> [Link to Tableau](https://public.tableau.com/app/profile/haz.faeaz/viz/AirlineReviews_17222599770960/Dashboard#1)
 
 **Technologies used:**  
 
