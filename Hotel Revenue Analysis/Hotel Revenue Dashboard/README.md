@@ -1,4 +1,6 @@
 # Dashboard Findings: Hotel Bookings and Revenue Analysis
+[Link to Power BI file here](https://github.com/hazwf/PortfolioProjects/blob/main/Hotel%20Revenue%20Analysis/Hotel%20Revenue%20Dashboard/hotel%20revenue%20dashboard.pbix)
+
 ![ss of Hotel Revenue Power BI Dashboard](https://github.com/user-attachments/assets/f79d186d-9396-4e8c-b1ea-a21e7cf0d43a)
 
 This dashboard presents hotel booking data from July 2018 to August 2020, focusing on revenue. It shows a total revenue of $22.95 million from 89,000 arrivals, factoring in the discounts given to guests based on their market segment. Notably, cancellations and no-shows account for about 37% of the bookings.
