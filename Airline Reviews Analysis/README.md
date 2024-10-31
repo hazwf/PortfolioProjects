@@ -19,11 +19,11 @@ Tableau
 
 ## Data Collection using Web Scraping
 
-This project includes a Python script for web scraping that pulls together country codes, states, and the countries they’re linked to. The data is cleaned and standardized for consistency. By doing this, the airline routes are mapped by country, which really helps when visualizing data and comparing insights across countries. 
+This project features a Python script for web scraping, which retrieves data from a website containing country codes, states, and their corresponding countries. The scraped data is then imported into Microsoft Excel, where it is used to clean and standardize information related to airline routes. 
 
 ## Data Cleaning 
 
-* Data cleaning is first performed in Microsoft Excel to identify and correct spelling errors. The VLOOKUP function is utilized to update the countries linked to the
+* Data cleaning is first performed on Microsoft Excel to identify and correct spelling errors. The VLOOKUP function is utilized to update the countries linked to the
   country codes and states in the Reviews dataset, referencing the scraped dataset.
 * Following this, Python is employed to further clean the data by filling in missing values and checking for duplicates.
 
@@ -38,7 +38,7 @@ Using Python on Jupyter notebook, EDA is performed on the collected reviews data
 * Determine the factors influencing whether a passenger recommends an airline
 * Assess the percentage of verified vs. unverified reviews and their impact on ratings
 
-## **Tableau**
+## Tableau
 
 Using Tableau, visualizations are done to provide insights into:
 * Average Rating by Airline
