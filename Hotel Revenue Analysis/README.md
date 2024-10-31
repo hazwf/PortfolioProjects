@@ -5,7 +5,7 @@ This project provides insights into hotel revenue data from 2018 to 2020 through
 
 #### Features and links  
 * EDA using PostgreSQL --> [Link to SQL code](https://github.com/hazwf/PortfolioProjects/blob/main/Hotel%20Revenue%20Analysis/queries.sql)
-* Interactive Dashboard --> Link to Power BI screenshot and file
+* Interactive Dashboard --> [Link to Power BI screenshot and file](https://github.com/hazwf/PortfolioProjects/tree/main/Hotel%20Revenue%20Analysis/Hotel%20Revenue%20Dashboard)
 
 #### Technologies used 
 PostgreSQL<br/>
