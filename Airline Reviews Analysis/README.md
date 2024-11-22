@@ -2,7 +2,7 @@
 
 **Project Overview**  
 
-This project offers insights into customer reviews of various airlines through Exploratory Data Analysis and visualizations. The goal is to assess customer satisfaction, identify trends, and uncover factors that influence high or low ratings.
+This project offers insights into 23,171 customer reviews of various airlines through Exploratory Data Analysis and visualizations. The goal is to assess customer satisfaction, identify trends, and uncover factors that influence high or low ratings.
 
 
 **Features and links**  
